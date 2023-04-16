@@ -24,3 +24,8 @@ There are two type of Data structures,
   #### Non-linear data structure
   
   Non-linear data structure is a type of data structure where data/elements are not stored/arranged in a sequential manner as each element can be connected to two or more elements. Example: graph, tree.
+  
+  #### Differences between linear and non-linear data structure
+   
+   * Basic
+    * In linear data structure the elements are  
