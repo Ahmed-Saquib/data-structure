@@ -1,7 +1,7 @@
 
 # DSA Q&A
 
-#### Why you should use linked list over array?
+* #### Why you should use linked list over array?
 * The size of an array must be known in advance.
 * Increasing the size of an array is time consuming.
 * Inserting an element in the array needs shifting of all its predecessors.
