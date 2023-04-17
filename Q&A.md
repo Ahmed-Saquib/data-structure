@@ -19,7 +19,7 @@ There are some disadvantages also,
 * Undo/redo.
 * Graph can be traversed using various algorithms like BFS, DFS, both of which uses a stack data structure to keep track of the visited nodes. Stack is used to keep track of the nodes that are explored. When the algorithm visits a new node it pushes that node in the stack so that while backtracking it can pop the last node off and continue exploring from the previous node.
 * Backtracking.
-* Memory management.
+* Memory management (stack memory)
  
 #### How BFS uses stack data structure?
 #### How DFS uses queue data structure?
