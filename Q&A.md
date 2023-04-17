@@ -1,3 +1,4 @@
+[[_TOC_]]
 # DSA Q&A
 
 #### Why you should use linked list over array?
