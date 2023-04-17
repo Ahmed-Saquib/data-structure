@@ -1,5 +1,5 @@
-[[_TOC_]]
-# DSA Q&A
+
+* # DSA Q&A
 
 #### Why you should use linked list over array?
 * The size of an array must be known in advance.
